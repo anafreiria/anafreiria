@@ -2,7 +2,7 @@
 - 🌱 Cursando Ciências da Computação na UNIFAL-MG
 - 📫 Email para contato: ana.freiria@sou.unifal-mg.edu.br
 - ⚡ Atualmente moro em Alfenas-mg, natural de Alterosa-mg.
-- Especializando ma área de progrmação, atualmente programando em C\C++.
+- Especializando ma área de programação, atualmente programando em C\C++.
 
 <!---
 anafreiria/anafreiria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
