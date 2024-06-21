@@ -2,8 +2,7 @@
 <p align="center">Olá ❤️ Me chamo Ana Flávia e sou iniciante na área da tecnologia. <br><br> 
 - 🌱 Cursando Ciências da Computação na UNIFAL-MG
 - 📫 Email para contato: ana.freiria@sou.unifal-mg.edu.br
-- ⚡ Atualmente moro em Alfenas-mg, natural de Alterosa-mg.
-- Especializando ma área de programação, atualmente desenvolvendo técnicas e aprendizados em C\C++.</p>&nbsp;
+- ❤️ Especializando na área de programação, atualmente desenvolvendo técnicas e aprendizados em C\C++.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=anafreiria&theme=radical&mode=weekly" />
@@ -33,6 +32,7 @@
 
 &nbsp;
 &nbsp;
+
 
 
 ## Contacts:
