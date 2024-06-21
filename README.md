@@ -3,13 +3,10 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=anafreiria&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-anafreiria.vercel.app/api/top-langs/?username=anafreiria&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
@@ -22,7 +19,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 
 
 #### Workstation Tools:
