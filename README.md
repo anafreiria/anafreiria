@@ -1,9 +1,9 @@
 
-<p align="center">Olá ❤️ Me chamo Ana Flávia e sou iniciante na área da tecnologia. <br><br> 
+<p align="center">Olá ❤️ Me chamo Ana Flávia, tenho 18 anos e sou iniciante na área da tecnologia. </p>&nbsp;
 - 🌱 Cursando Ciências da Computação na UNIFAL-MG</p>&nbsp;
 - 📫 Email para contato: ana.freiria@sou.unifal-mg.edu.br</p>&nbsp;
-- ❤️ Especializando na área de programação, atualmente desenvolvendo técnicas e aprendizados em C\C++.</p>&nbsp;
-- ✨ 18 anos
+- ✨ Especializando na área de programação, atualmente desenvolvendo técnicas e aprendizados em C\C++.</p>&nbsp;
+
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=anafreiria&theme=radical&mode=weekly" />
  </div>
