@@ -10,8 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anafreiria&theme=dracula&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafreiria&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Computador iuriCode">
+  <img src="https://github.com/Iuricode/iuricode/blob/main/assets/computer.gif?raw=true" width="400px" alt="Computador ilustrado">
 </div>
+
 
 ---
 
