@@ -1,4 +1,4 @@
-<p align="center">Olá ❤️ Me chamo Ana Flávia, tenho 18 anos e sou iniciante na área da tecnologia.</p>
+<p align="center">  ❤️ Me chamo Ana Flávia, tenho 20 anos e sou iniciante na área da tecnologia.</p>
 <p align="center">- 🌱 Cursando Ciências da Computação na UNIFAL-MG</p>
 <p align="center">- 📫 Email para contato: ana.freiria@sou.unifal-mg.edu.br</p>
 <p align="center">- ✨ Especializando na área de programação, atualmente desenvolvendo técnicas e aprendizados em C\C++, Programação Web, Java SE e Funcional.</p>
