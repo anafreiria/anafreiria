@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=180&section=header&text=Ana%20Flávia%20Freiria&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+
 <p align="center">  ❤️ Me chamo Ana Flávia, tenho 20 anos e sou iniciante na área da tecnologia.</p>
 <p align="center">- 🌱 Cursando Ciências da Computação na UNIFAL-MG</p>
 <p align="center">- 📫 Email para contato: ana.freiria@sou.unifal-mg.edu.br</p>
@@ -7,11 +9,12 @@
 
 <!-- Centralizando imagens de status e ilustração -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anafreiria&theme=dracula&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafreiria&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anafreiria&theme=dracula&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafreiria&theme=dracula&layout=compact&hide_border=true&cache_seconds=1800"/>
   <br/><br/>
-  <img src="https://github.com/Iuricode/iuricode/blob/main/assets/computer.gif?raw=true" width="400px" alt="Computador ilustrado">
+  <img src="https://github.com/Iuricode/iuricode/blob/main/assets/computer.gif?raw=true" width="380px" alt="Computador ilustrado">
 </div>
+
 
 
 ---
