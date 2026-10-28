@@ -15,9 +15,9 @@
 - 🎓 Graduanda em **Ciência da Computação na UNIFAL-MG**, com conclusão prevista para dezembro de 2027.
 - 💻 Experiência profissional em **desenvolvimento front-end**, manutenção de sistemas, testes funcionais, documentação e análise de requisitos.
 - 🚀 Atuo também com **desenvolvimento full-stack**, transformando necessidades de clientes em aplicações, funcionalidades e fluxos testáveis.
-- 🧠 Utilizo **SDD, PRDs, agentes e skills de IA** para apoiar planejamento, implementação, análise de código, testes, revisão e documentação.
+- 🧠 Utilizo **SDD, PRDs, agentes e skills de IA** no planejamento, implementação, análise de código, testes, revisão e documentação.
 - 🔄 Atualmente colaboro na **migração do back-end do SigeX** para a infraestrutura da UNIFAL-MG, além de contribuir com interface e QA.
-- 🩺 Participo do **PET TECH-SUS**, contribuindo no desenvolvimento e nos testes do InfoVida, uma solução de saúde digital voltada a usuários do SUS.
+- 🩺 Participo do **PET TECH-SUS**, contribuindo no desenvolvimento e nos testes do InfoVida, solução de saúde digital voltada a usuários do SUS.
 
 ---
 
@@ -31,9 +31,31 @@ Atuei como estagiária em Desenvolvimento Front-end e apoio em QA no sistema cor
 
 Colaboro no desenvolvimento e na manutenção da interface, em atividades de QA e na migração do back-end para o servidor da universidade. O código-fonte está em um repositório institucional privado.
 
-### Desenvolvimento Full-stack
+### Desenvolvimento full-stack
 
-Desenvolvo aplicações sob demanda, participando de levantamento de requisitos, definição de regras de negócio, implementação, testes, documentação e validação com clientes.
+Desenvolvo aplicações sob demanda, participando do levantamento de requisitos, definição de regras de negócio, implementação, testes, documentação e validação com clientes.
+
+---
+
+## Projetos em destaque
+
+### [BlueVelvet Music Store](https://github.com/anafreiria/bluevelvet-music-store)
+
+E-commerce full-stack desenvolvido com Java, Spring Boot, Thymeleaf, JavaScript, Tailwind CSS e MySQL. O projeto foi conduzido com Scrum e incluiu integração entre interface, API, regras de negócio e banco de dados.
+
+### [Plataforma de Cursos](https://github.com/anafreiria/PlataformaCursoSwing)
+
+Aplicação para gerenciamento de cursos desenvolvida com Java, Swing, JDBC e MySQL, incluindo operações CRUD, validação de fluxos e integração com banco de dados.
+
+### [Site pessoal](https://anafreiria.github.io/site-pessoal/)
+
+Portfólio com minha formação, experiências, projetos e interesses profissionais.
+
+### Projetos privados e institucionais
+
+- **SigeX:** interface, QA e migração do back-end para a infraestrutura da UNIFAL-MG.
+- **InfoVida:** requisitos, prototipação, desenvolvimento, testes e documentação de uma solução de saúde digital.
+- **Plataforma educacional:** desenvolvimento full-stack de uma aplicação para gestão de aulas particulares de inglês.
 
 ---
 
@@ -53,9 +75,9 @@ Desenvolvo aplicações sob demanda, participando de levantamento de requisitos,
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
-![REST API](https://img.shields.io/badge/REST_API-8F0D87?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/REST_API-8F0D87?style=for-the-badge)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### IA aplicada ao desenvolvimento
@@ -70,35 +92,13 @@ Desenvolvo aplicações sob demanda, participando de levantamento de requisitos,
 
 ### Qualidade, produto e colaboração
 
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-2E8B57?style=for-the-badge)&nbsp;
-![Requirements](https://img.shields.io/badge/Requirements_Analysis-8F0D87?style=for-the-badge)&nbsp;
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)&nbsp;
+![Testes funcionais](https://img.shields.io/badge/Testes_Funcionais-2E8B57?style=for-the-badge)&nbsp;
+![Análise de requisitos](https://img.shields.io/badge/Análise_de_Requisitos-8F0D87?style=for-the-badge)&nbsp;
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)&nbsp;
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## Projetos em destaque
-
-### [BlueVelvet Music Store](https://github.com/anafreiria/bluevelvet-music-store)
-
-E-commerce full-stack desenvolvido com Java, Spring Boot, Thymeleaf, JavaScript, Tailwind CSS e MySQL. O projeto foi conduzido com Scrum e incluiu integração entre interface, API, regras de negócio e banco de dados.
-
-### [Plataforma de Cursos](https://github.com/anafreiria/PlataformaCursoSwing)
-
-Aplicação para gerenciamento de cursos com Java, Swing, JDBC e MySQL, incluindo operações CRUD, validação de fluxos e integração com banco de dados.
-
-### [Site pessoal](https://anafreiria.github.io/site-pessoal/)
-
-Portfólio com minha formação, experiências, projetos e interesses profissionais.
-
-### Projetos privados e institucionais
-
-- **SigeX:** interface, QA e migração do back-end para a infraestrutura da UNIFAL-MG.
-- **InfoVida:** requisitos, prototipação, desenvolvimento, testes e documentação de uma solução de saúde digital.
-- **Plataforma educacional:** desenvolvimento full-stack de uma aplicação para gestão de aulas particulares de inglês.
 
 ---
 
