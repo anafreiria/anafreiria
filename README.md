@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=160&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 <h1 align="center">Olá, eu sou Ana Flávia 👋</h1>
 
@@ -118,4 +118,4 @@ Portfólio com minha formação, experiências, projetos e interesses profission
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=100&section=footer"/>
